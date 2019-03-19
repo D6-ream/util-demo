@@ -6,7 +6,8 @@ a util demo
 
 1. 支持自动版本升级 详见standard-version
 2. 支持TS
-3. 支持单元测试
+3. 支持eslint
+4. 支持单元测试
 
 ## starter的使用
 down到本地
