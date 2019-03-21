@@ -8,6 +8,7 @@ a util demo
 2. 支持TS
 3. 支持eslint
 4. 支持单元测试
+5. 支持debug
 
 ## starter的使用
 down到本地
