@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.2](https://github.com/D6-ream/util-demo/compare/v1.3.1...v1.3.2) (2019-03-29)
+
+
+### Bug Fixes
+
+* 增加上传文件 ([edbe091](https://github.com/D6-ream/util-demo/commit/edbe091))
+
+
+
 ## [1.3.1](https://github.com/D6-ream/util-demo/compare/v1.3.0...v1.3.1) (2019-03-29)
 
 
