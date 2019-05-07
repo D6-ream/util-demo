@@ -32,6 +32,11 @@ npm i
 npm run test
 ```
 
+打包build
+```
+npm run compile
+```
+
 发布
 ```
 npm run release
